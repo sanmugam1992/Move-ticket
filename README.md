@@ -1,1 +1,2 @@
-# Move-ticket
+# Movie Ticket App
+Flask + Docker demo.
